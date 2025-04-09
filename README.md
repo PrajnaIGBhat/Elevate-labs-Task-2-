@@ -2,6 +2,12 @@
 
 This project showcases an interactive sales dashboard built using **Power BI** with data from a sample Superstore dataset. The dashboard provides a comprehensive overview of sales performance across different regions, product categories, and discount leve
 
+## 🧹 Data Preparation
+Before building the dashboard, basic data cleaning was performed:
+- Removed duplicates and handled missing values
+- Converted date columns into appropriate datetime format
+- Verified data types for accurate analysis in Power BI
+
 ## 📁 Dataset
 - **Source**: Sample Superstore data (CSV format)
 - **Time Period**: January 2014 – December 2017
